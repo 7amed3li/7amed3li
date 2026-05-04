@@ -143,9 +143,15 @@ Stack-aware. Fewer false positives. Still building.
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=7amed3li&layout=compact&theme=github_dark&hide_border=true&title_color=4493f8&text_color=8b949e&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7amed3li&layout=compact&hide_border=true" height="160" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=7amed3li&layout=compact&theme=github_dark&hide_border=true&title_color=4493f8&text_color=8b949e&bg_color=0d1117&hide=Dart"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=7amed3li&layout=compact&hide_border=true&hide=Dart"
+    height="160"
+    alt="Top languages"
+  />
 </picture>
 
 <br/><br/>
