@@ -28,7 +28,7 @@ and solve security problems that matter.
 
 <br/>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contributions" />
+<img src="./assets/engineering-activity.svg" width="100%" alt="Engineering activity and open-source contribution" />
 
 <br/>
 
