@@ -1,16 +1,12 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=timeGradient&text=Hamed%20Mohamed&fontColor=ffffff&fontSize=46&fontAlignY=40&animation=twinkling&desc=Software%20Engineer%20%7C%20Backend%20%26%20Application%20Security&descAlignY=62&descSize=14&descColor=a0b4cc" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2&text=Hamed%20Mohamed&fontColor=1a1a2e&fontSize=46&fontAlignY=40&animation=twinkling&desc=Software%20Engineer%20%7C%20Backend%20%26%20Application%20Security&descAlignY=62&descSize=14&descColor=3d5a80" />
-</picture>
+<img src="./assets/profile-header.svg" width="100%" alt="Hamed Mohamed — Software Engineer" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github.com/7amed3li/7amed3li/raw/refs/heads/main/assets/engineering-focus.svg" width="600" height="60" alt="Software engineering focus: Node.js, React, and application security" />
+<img src="./assets/engineering-focus.svg" width="600" height="60" alt="Software engineering focus: Node.js, React, and application security" />
 
 </div>
 
@@ -32,11 +28,7 @@ and solve security problems that matter.
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/7amed3li/7amed3li/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <img src="https://raw.githubusercontent.com/7amed3li/7amed3li/main/profile-3d-contrib/profile-south-season-animate.svg" width="100%" alt="3D contributions" />
-</picture>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contributions" />
 
 <br/>
 
@@ -116,8 +108,8 @@ Building a vulnerability scanner that identifies the target technology stack bef
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/7amed3li/7amed3li/main/dist/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/7amed3li/7amed3li/main/dist/github-snake.svg"
+    srcset="./dist/github-snake-dark.svg" />
+  <img src="./dist/github-snake.svg"
     width="100%" alt="GitHub contribution snake" />
 </picture>
 
@@ -129,7 +121,7 @@ Building a vulnerability scanner that identifies the target technology stack bef
 
 <div align="center">
 
-<img src="https://github.com/7amed3li/7amed3li/raw/refs/heads/main/assets/profile-stats.svg" width="100%" alt="GitHub profile overview" />
+<img src="./assets/profile-stats.svg" width="100%" alt="GitHub profile overview" />
 
 </div>
 
@@ -151,10 +143,6 @@ Building a vulnerability scanner that identifies the target technology stack bef
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&reversal=false" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=100&section=footer" alt="Footer decoration" />
-</picture>
+<img src="./assets/profile-header.svg" width="100%" height="90" alt="Hamed Mohamed profile footer" />
 
 </div>
