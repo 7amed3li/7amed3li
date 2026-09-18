@@ -129,7 +129,7 @@ Building a vulnerability scanner that identifies the target technology stack bef
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/7amed3li/7amed3li/main/assets/profile-stats.svg" width="100%" alt="GitHub profile overview" />
+<img src="https://github.com/7amed3li/7amed3li/raw/refs/heads/main/assets/profile-stats.svg" width="100%" alt="GitHub profile overview" />
 
 </div>
 
