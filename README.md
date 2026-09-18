@@ -4,85 +4,52 @@
 
 </div>
 
-<div align="center">
+<p align="center">
+  <strong>Backend & Full-Stack Engineering · Application Security · Production Systems</strong>
+</p>
 
-<img src="./assets/engineering-focus.svg" width="600" height="60" alt="Software engineering focus: Node.js, React, and application security" />
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-```
-I build production-ready software,
-optimize systems under real-world load,
-and solve security problems that matter.
-```
-
-</div>
+<p align="center">
+  <a href="mailto:hamed.m.abdelalim@gmail.com">Email</a> ·
+  <a href="https://github.com/7amed3li">GitHub</a> ·
+  Open to opportunities in KSA, remotely, or on-site
+</p>
 
 ---
 
-<br/>
+## Profile
 
-<img src="./profile-3d-contrib/profile-night-rainbow-no-dart.svg" width="100%" alt="3D GitHub contribution profile" />
+I am a **Software Engineer** focused on building dependable backend systems, practical web applications, and security tooling. My strongest areas are Node.js, TypeScript, React, performance optimization, and application security.
 
-<br/>
+I care about measurable engineering outcomes: systems that handle real traffic, code that remains maintainable in production, and security improvements that reduce risk in meaningful ways.
 
----
-
-## `$ whoami`
-
-```yaml
-name:        Hamed Mohamed Abdelalim
-role:        Software Engineer — Backend, Full-Stack & Application Security
-degree:      B.Sc. Computer Engineering
-location:    Tokat, Turkey
-availability: KSA · Remote · On-site
-languages:   Arabic (native) · English (B2) · Turkish (professional)
-contact:     hamed.m.abdelalim@gmail.com
-```
-
-<br/>
-
-I am a **Software Engineer** focused on building dependable backend systems, practical web applications, and security tooling. I work across the stack when needed, with a strong focus on Node.js, TypeScript, React, performance optimization, and application security.
-
-My work is driven by measurable outcomes: systems that handle real traffic, code that is maintainable in production, and security improvements that reduce risk instead of just looking good on paper.
-
-<br/>
+| | |
+|---|---|
+| **Based in** | Tokat, Turkey |
+| **Education** | B.Sc. Computer Engineering |
+| **Languages** | Arabic (native) · English (B2) · Turkish (professional) |
+| **Focus** | Backend systems · Full-stack applications · Application security |
 
 ---
 
-## What I Build
+## Engineering Impact
 
-<br/>
+### QR Attendance Platform
 
-**→ QR Attendance Platform** — *production system*
+Designed and built from the ground up, this production platform serves **2,000+ daily users**. I led a **3-person engineering team** and focused on reliability, performance, and scalable system design.
 
-Designed and built from the ground up, this platform is used by **2,000+ daily users** inside the university. I led a **3-person engineering team** and focused on reliability, performance, and scalable system design.
+| Metric | Result |
+|---|---:|
+| Average response time | **94 ms → 1.5 ms** |
+| Sustained throughput | **653 requests/second** |
+| Key improvements | Hybrid JWT pipeline · Circuit Breaker · Dynamic resource allocation |
 
-```text
-before:  94 ms average response time · system slowed under load
-after:   1.5 ms average response time · 653 req/s sustained throughput
-how:     hybrid JWT pipeline · Circuit Breaker · dynamic resource allocation
-```
+### NodeSecure
 
-<br/>
+Contributed **7 merged pull requests** to [NodeSecure](https://github.com/NodeSecure), an open-source security project for the Node.js ecosystem. Contributions include SSRF detection, AST sensitivity modes, benchmarking infrastructure, and unsafe-randomness detection.
 
-**→ [NodeSecure](https://github.com/NodeSecure)** — *open-source security contributions*
+### DragonSploit
 
-Contributed **7 merged pull requests** to security tooling for the Node.js ecosystem. The work included SSRF detection, AST sensitivity modes, benchmarking infrastructure, and unsafe-randomness detection—focused on real analyzer logic, not only documentation changes.
-
-<br/>
-
-**→ DragonSploit** — *in active development*
-
-Building a vulnerability scanner that identifies the target technology stack before scanning. The goal is a more context-aware workflow with fewer false positives and more useful results.
-
-<br/>
+Building a vulnerability scanner that identifies the target technology stack before scanning, enabling a more context-aware workflow with fewer false positives and more useful results.
 
 ---
 
@@ -90,34 +57,35 @@ Building a vulnerability scanner that identifies the target technology stack bef
 
 <div align="center">
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,nextjs&theme=dark&perline=5" alt="Core technologies" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux&theme=dark&perline=5" alt="Infrastructure and databases" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,nextjs&theme=dark&perline=5" alt="Node.js, TypeScript, JavaScript, React, and Next.js" />
 
 <br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux&theme=dark&perline=5" alt="PostgreSQL, MongoDB, Redis, Docker, and Linux" />
+
+</div>
+
+**Core:** Node.js · TypeScript · JavaScript · React · Next.js<br/>
+**Data & infrastructure:** PostgreSQL · MongoDB · Redis · Docker · Linux<br/>
+**Engineering interests:** Performance optimization · Secure API design · Vulnerability detection · Production reliability
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow-no-dart.svg" width="100%" alt="3D GitHub contribution profile" />
+
+<br/>
+
+<img src="./dist/github-snake.svg" width="100%" alt="GitHub contribution activity" />
 
 </div>
 
 ---
 
-## Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="./dist/github-snake-dark.svg" />
-  <img src="./dist/github-snake.svg"
-    width="100%" alt="GitHub contribution snake" />
-</picture>
-
-<br/>
-
----
-
-## GitHub Statistics
+## GitHub Overview
 
 <div align="center">
 
@@ -125,24 +93,18 @@ Building a vulnerability scanner that identifies the target technology stack bef
 
 </div>
 
-<sub>Stats are maintained as a stable local profile card so the README does not depend on third-party statistics services.</sub>
-
 ---
+
+## Let’s Connect
 
 <div align="center">
 
-<br/>
-
-[![Email](https://img.shields.io/badge/say%20hello-hamed.m.abdelalim%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=4493f8)](mailto:hamed.m.abdelalim@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hamed.m.abdelalim%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:hamed.m.abdelalim@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/github-@7amed3li-161b22?style=for-the-badge&logo=github&logoColor=4493f8)](https://github.com/7amed3li)
+[![GitHub](https://img.shields.io/badge/GitHub-@7amed3li-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/7amed3li)
 
 <br/>
 
 <sub>Open to software engineering opportunities · KSA · Remote · On-site</sub>
-
-<br/><br/>
-
-<img src="./assets/profile-header.svg" width="100%" height="90" alt="Hamed Mohamed profile footer" />
 
 </div>
