@@ -28,7 +28,7 @@ and solve security problems that matter.
 
 <br/>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution profile" />
+<img src="./profile-3d-contrib/profile-night-rainbow-no-dart.svg" width="100%" alt="3D GitHub contribution profile" />
 
 <br/>
 
