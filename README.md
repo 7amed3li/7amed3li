@@ -116,8 +116,8 @@ Building a vulnerability scanner that identifies the target technology stack bef
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/7amed3li/7amed3li/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/7amed3li/7amed3li/output/snake-light.svg"
+    srcset="https://raw.githubusercontent.com/7amed3li/7amed3li/main/dist/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/7amed3li/7amed3li/main/dist/github-snake.svg"
     width="100%" alt="GitHub contribution snake" />
 </picture>
 
@@ -129,33 +129,11 @@ Building a vulnerability scanner that identifies the target technology stack bef
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=7amed3li&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=4493f8&icon_color=4493f8&text_color=8b949e&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api?username=7amed3li&show_icons=true&hide_border=true&count_private=true" height="160" alt="GitHub statistics" />
-</picture>
-&nbsp;
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=7amed3li&layout=compact&theme=github_dark&hide_border=true&title_color=4493f8&text_color=8b949e&bg_color=0d1117&hide=Dart"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=7amed3li&layout=compact&hide_border=true&hide=Dart"
-    height="160"
-    alt="Top programming languages"
-  />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=7amed3li&theme=github-compact&hide_border=true&bg_color=0d1117&color=4493f8&line=1f6feb&point=58a6ff&area=true&area_color=0d2044" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7amed3li&theme=minimal&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
-</picture>
+<img src="https://raw.githubusercontent.com/7amed3li/7amed3li/main/assets/profile-stats.svg" width="100%" alt="GitHub profile overview" />
 
 </div>
+
+<sub>Stats are maintained as a stable local profile card so the README does not depend on third-party statistics services.</sub>
 
 ---
 
