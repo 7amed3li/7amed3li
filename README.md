@@ -2,15 +2,15 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=timeGradient&text=Hamed%20Mohamed&fontColor=ffffff&fontSize=46&fontAlignY=40&animation=twinkling&desc=Final-year%20student.%20One%20year%20of%20real%20production%20code.&descAlignY=62&descSize=14&descColor=a0b4cc" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2&text=Hamed%20Mohamed&fontColor=1a1a2e&fontSize=46&fontAlignY=40&animation=twinkling&desc=Final-year%20student.%20One%20year%20of%20real%20production%20code.&descAlignY=62&descSize=14&descColor=3d5a80" />
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=timeGradient&text=Hamed%20Mohamed&fontColor=ffffff&fontSize=46&fontAlignY=40&animation=twinkling&desc=Software%20Engineer%20%7C%20Backend%20%26%20Application%20Security&descAlignY=62&descSize=14&descColor=a0b4cc" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2&text=Hamed%20Mohamed&fontColor=1a1a2e&fontSize=46&fontAlignY=40&animation=twinkling&desc=Software%20Engineer%20%7C%20Backend%20%26%20Application%20Security&descAlignY=62&descSize=14&descColor=3d5a80" />
 </picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=4493F8&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Node.js+%26+React+%7C+Application+Security;Building+things+that+actually+run+in+production" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=4493F8&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Node.js+%26+React+%7C+Application+Security;Building+reliable+systems+that+perform+in+production" alt="Software engineering focus" />
 
 </div>
 
@@ -21,8 +21,9 @@
 <div align="center">
 
 ```
-Still in university.
-Already shipped a system 2,000 people use every single day.
+I build production-ready software,
+optimize systems under real-world load,
+and solve security problems that matter.
 ```
 
 </div>
@@ -45,73 +46,65 @@ Already shipped a system 2,000 people use every single day.
 
 ```yaml
 name:        Hamed Mohamed Abdelalim
-degree:      B.Sc. Computer Engineering — graduating July 2026
-gpa:         3.38 / 4.0
+role:        Software Engineer — Backend, Full-Stack & Application Security
+degree:      B.Sc. Computer Engineering
 location:    Tokat, Turkey
-open_to:     KSA · Remote · On-site — from August 2026
-languages:   Arabic (native)  ·  English (B2)  ·  Turkish (professional)
+availability: KSA · Remote · On-site
+languages:   Arabic (native) · English (B2) · Turkish (professional)
 contact:     hamed.m.abdelalim@gmail.com
 ```
 
 <br/>
 
-I'm a final-year student who somehow ended up leading a 3-person engineering
-team, shipping production systems, and contributing to open-source security
-tooling — all while studying full-time.
+I am a **Software Engineer** focused on building dependable backend systems, practical web applications, and security tooling. I work across the stack when needed, with a strong focus on Node.js, TypeScript, React, performance optimization, and application security.
 
-I don't have 5 years of experience.
-But I have **1 year of production experience** that most fresh graduates don't.
+My work is driven by measurable outcomes: systems that handle real traffic, code that is maintainable in production, and security improvements that reduce risk instead of just looking good on paper.
 
 <br/>
 
 ---
 
-## what i've been working on
+## What I Build
 
 <br/>
 
-**→ QR Attendance Platform** — *my main production project*
+**→ QR Attendance Platform** — *production system*
 
-A system I designed and built from scratch, now running live for
-**2,000+ daily users** inside the university.
-It handles peak load without breaking — I know because I measured it.
+Designed and built from the ground up, this platform is used by **2,000+ daily users** inside the university. I led a **3-person engineering team** and focused on reliability, performance, and scalable system design.
 
-```
-before:  94ms avg response · system would crawl under load
-after:   1.5ms avg response · 653 req/s sustained throughput
-how:     hybrid JWT pipeline + Circuit Breaker + dynamic resource allocation
+```text
+before:  94 ms average response time · system slowed under load
+after:   1.5 ms average response time · 653 req/s sustained throughput
+how:     hybrid JWT pipeline · Circuit Breaker · dynamic resource allocation
 ```
 
 <br/>
 
-**→ [NodeSecure](https://github.com/NodeSecure) — open source contributions**
+**→ [NodeSecure](https://github.com/NodeSecure)** — *open-source security contributions*
 
-Security tooling for the Node.js ecosystem. I found gaps in the analyser and fixed them.
-7 merged PRs — not docs or typos, actual logic: SSRF detection, AST sensitivity
-modes, benchmarking infrastructure, unsafe random usage detection.
+Contributed **7 merged pull requests** to security tooling for the Node.js ecosystem. The work included SSRF detection, AST sensitivity modes, benchmarking infrastructure, and unsafe-randomness detection—focused on real analyzer logic, not only documentation changes.
 
 <br/>
 
-**→ DragonSploit** — *in progress*
+**→ DragonSploit** — *in active development*
 
-A vulnerability scanner that figures out what it's looking at before it starts scanning.
-Stack-aware. Fewer false positives. Still building.
+Building a vulnerability scanner that identifies the target technology stack before scanning. The goal is a more context-aware workflow with fewer false positives and more useful results.
 
 <br/>
 
 ---
 
-## tools i think in
+## Technical Toolkit
 
 <div align="center">
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,nextjs&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,nextjs&theme=dark&perline=5" alt="Core technologies" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux&theme=dark&perline=5" alt="Infrastructure and databases" />
 
 <br/>
 
@@ -119,27 +112,27 @@ Stack-aware. Fewer false positives. Still building.
 
 ---
 
-## contribution graph
+## Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/7amed3li/7amed3li/output/snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/7amed3li/7amed3li/output/snake-light.svg"
-    width="100%" alt="contribution snake" />
+    width="100%" alt="GitHub contribution snake" />
 </picture>
 
 <br/>
 
 ---
 
-## stats
+## GitHub Statistics
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://github-readme-stats.vercel.app/api?username=7amed3li&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=4493f8&icon_color=4493f8&text_color=8b949e&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api?username=7amed3li&show_icons=true&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=7amed3li&show_icons=true&hide_border=true&count_private=true" height="160" alt="GitHub statistics" />
 </picture>
 &nbsp;
 <picture>
@@ -150,7 +143,7 @@ Stack-aware. Fewer false positives. Still building.
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=7amed3li&layout=compact&hide_border=true&hide=Dart"
     height="160"
-    alt="Top languages"
+    alt="Top programming languages"
   />
 </picture>
 
@@ -159,7 +152,7 @@ Stack-aware. Fewer false positives. Still building.
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=7amed3li&theme=github-compact&hide_border=true&bg_color=0d1117&color=4493f8&line=1f6feb&point=58a6ff&area=true&area_color=0d2044" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7amed3li&theme=minimal&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7amed3li&theme=minimal&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
 </picture>
 
 </div>
@@ -176,14 +169,14 @@ Stack-aware. Fewer false positives. Still building.
 
 <br/>
 
-<sub>open to opportunities · remote or on-site · from august 2026</sub>
+<sub>Open to software engineering opportunities · KSA · Remote · On-site</sub>
 
 <br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&reversal=false" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=100&section=footer" alt="Footer decoration" />
 </picture>
 
 </div>
