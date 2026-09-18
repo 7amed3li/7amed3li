@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=4493F8&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Node.js+%26+React+%7C+Application+Security;Building+reliable+systems+that+perform+in+production" alt="Software engineering focus" />
+<img src="https://github.com/7amed3li/7amed3li/raw/refs/heads/main/assets/engineering-focus.svg" width="600" height="60" alt="Software engineering focus: Node.js, React, and application security" />
 
 </div>
 
